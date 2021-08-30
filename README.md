@@ -2,8 +2,8 @@
 make sudo appear as installed but will execute su commands as regular user
 
 ## Install
-if you have sudo already installed.. 
-*Remove it* or rename it.  
+if you have sudo already installed..   
+*Remove it* or rename it.    
 Clone the repo:  
 ```
 git clone https://github.com/lewsec/false-sudo.git
